@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.main .headerInfos {
+  background-color: #231f20;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.main .headerInfos h5 {
+  margin: 0;
+  cursor: pointer;
+  padding: 0 10px;
+  color: #fff;
+  text-decoration: underline;
+}
+
+.main .headerInfos span {
+  color: #fff;
+}
